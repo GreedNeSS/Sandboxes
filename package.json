@@ -1,0 +1,19 @@
+{
+  "name": "sandboxes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "framework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedNeSS/Sandboxes.git"
+  },
+  "author": "GreeD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreedNeSS/Sandboxes/issues"
+  },
+  "homepage": "https://github.com/GreedNeSS/Sandboxes#readme"
+}
